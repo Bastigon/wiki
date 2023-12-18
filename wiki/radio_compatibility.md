@@ -22,7 +22,7 @@
 | ------- | -- | -- | -------- |
 | FT-817  | ✔️ | ✔️ | Tested with [STM32-DVM-USB](http://www.repeater-builder.com/products/stm32-dvm.html) and latest [MMDVM Firmware](https://github.com/g4klx/MMDVM) using [M17Client](https://github.com/g4klx/M17Client). No modification needed. |
 | FT-818  | ✔️ | ✔️ | |
-| FT-7800 | ✔️ | ✔️ | |
+| FT-7800 | ✔️ | ✔️ | |No modification needed. Use the 9600baud output at the TNC connector. |
 | FT-8000 | ✔️ | ❓ | No modification needed. Use the 9600baud output at the TNC connector. |
 | FT-8900 | ✔️ | ✔️ | |
 | FTM-6000 | ✔️ | ✔️ | No modification needed. Use the 9600baud output at the TNC connector. |
